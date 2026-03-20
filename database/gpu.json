@@ -1,0 +1,10 @@
+[
+{
+"name":"Intel UHD",
+"supported":true
+},
+{
+"name":"Intel Iris Xe",
+"supported":true
+}
+]

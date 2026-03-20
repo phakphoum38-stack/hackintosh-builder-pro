@@ -1,0 +1,12 @@
+[
+{
+"name":"Intel i3-1315U",
+"generation":"Raptor Lake",
+"supported":true
+},
+{
+"name":"Intel i5-1240P",
+"generation":"Alder Lake",
+"supported":true
+}
+]
